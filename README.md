@@ -123,7 +123,7 @@ CI/CD	GitHub Actions	Automated Deploy
 
 🧑🏽‍💻 Author
 
-Chinye Osemene (@chiosemen)
+Chinye Osemene 
 GitHub Profile | LinkedIn | Portfolio
 
 ⸻
